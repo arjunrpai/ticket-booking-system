@@ -6,7 +6,7 @@ This project demonstrates **OOP concepts, file handling, and data structures** i
 
 
 
-## 📌 Features
+## Features
 - **Train Management**
   - Each train has a unique ID, Name, Source, and Destination.  
 - **User Management**
@@ -23,7 +23,7 @@ This project demonstrates **OOP concepts, file handling, and data structures** i
 
 
 
-## 🏗️ System Design
+# System Design
 
 ### Classes
 - **Train**
@@ -37,7 +37,9 @@ This project demonstrates **OOP concepts, file handling, and data structures** i
   - `saveBooking(entity)`
 
  ![System Design](./Train%20booking%20system.png)
-    ## ⚙️ Tech Stack
+
+ 
+## Tech Stack
 - **Language**: C++  
 - **Concepts**: Object-Oriented Programming (OOP), Templates, File Handling  
 
