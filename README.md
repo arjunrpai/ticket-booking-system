@@ -25,6 +25,7 @@ This project demonstrates **OOP concepts, file handling, and data structures** i
 
 # System Design
 
+![System Design](./Train%20booking%20system.png)
 ### Classes
 - **Train**
   - `trainID`, `name`, `source`, `destination`
@@ -35,8 +36,6 @@ This project demonstrates **OOP concepts, file handling, and data structures** i
   - `cancelBooking(entityId, userId)`  
   - `printBooking(entityId, userId)`  
   - `saveBooking(entity)`
-
- ![System Design](./Train%20booking%20system.png)
 
  
 ## Tech Stack
